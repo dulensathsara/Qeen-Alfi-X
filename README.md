@@ -1,19 +1,19 @@
 <div align="center">
-  <img src="https://i.ibb.co/r3wmpwr/LOGO.jpg" width="300" height="300">
-  <h1>👸💎 QUEEN AMDI BOT 💎👸</h1>
+  <img src="https://i.ibb.co/qjYCdCb/20220218-091104.jpg" width="300" height="300">
+  <h1>꧁Qeen alfi-✘꧂</h1>
 </div>
 <p align="center">
     Makes it easy and fun to use WhatsApp. It is also the first Sinhala user bot for WhatsApp.
     <br>
-        <a href="https://chat.whatsapp.com/FufFv6v1M288le5TopCNMQ">Whatsapp Group</a> |
-        <a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ">Youtube Channel</a>
+        <a href="https://chat.whatsapp.com/H3zS0eZEjJw6sJC2lkkDgx">Whatsapp Group</a> |
+        <a href="https://youtube.com/channel/UCSVEKn59w7-spbvQUFUSHOg">Youtube Channel</a>
     <br>
 </p>
 
 ----
 <div align="center">
-	<h1>Visit our official website to install the Whatsapp Bot (With button update) :</h1>
-	<a href="https://www.amdaniwasa.com">
+	<h1>꧁Visit Saviya Brother official website꧂ :</h1>
+	<a href=https://saviyaoffcial.wixsite.com/saviya-official">
 <img src="https://images.squarespace-cdn.com/content/v1/580515742e69cfedd1fbef58/1525386767826-Z6T2PAXQD6PZJFNGY14U/ke17ZwdGBToddI8pDm48kGzbt7cz3CKX9Rsta-RdWeJZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwXPcCdCfJzTjuw7eD5qoJaUvNnrlJ7-JqE3xnP9OqaaXMr3zNNd3H5Lklmgn1mB80/getbutton.png" width="400"></br></a>
 </div>
 
