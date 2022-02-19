@@ -100,7 +100,7 @@ HAVE A FUN!
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BlackAmda/QueenAmdi)
 
-## 🔱 Queen Alfi-✘ 🔱 Team
+## 🔱 Queen Alfi-✘ 🔱 Teamm
 
 <table>
 										<tbody>
