@@ -24,12 +24,12 @@
 
 ----
 <div align="center">
-	<h2>Queen Amdi v3 whatsapp bot (Old bot without buttons) :</h1>
+	<h2>Click on run on [repl.it] Button and go to the {QR Code} </h1>
 	
-### QR CODE
+### QR CODE BUTTON
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@BlackAmda/Queen-Amdi-QR-Code)
 
-### Deploy OLD v3 Queen Amdi Bot
+### Deploy Your Queen Alfi-✘ WhatsApp Bot
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/BlackAmda/QueenAmdi-v3)
 </div>
 
@@ -86,7 +86,7 @@
 </p>
  
 ```
-Queen Amdi bot is an UserBot for WhatsApp That allowing you to get done so many tasks.
+🔱 Queen Alfi-✘ 🔱 bot is an UserBot for WhatsApp That allowing you to get done so many tasks.
 The user is responsible for all possible consequences of misuse.
 This is not a Open-Source project. This is just a project that allow you to get deploy a bot.
 Additionally, it enables plug-in support for users.
@@ -95,16 +95,9 @@ Usage is entirely the responsibility of the user. The operating system is not re
 HAVE A FUN!
 ```
 
-## Visit our official website to install the Whatsapp Bot :
-QR Code generator and full instructions available there.
-<div>
-	<a href="https://www.amdaniwasa.com">
-<img src="https://i.ibb.co/dr27VyW/59060c190cbeef0acff9a657.png" width="200"></br></a>
-</div>
-
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BlackAmda/QueenAmdi)
 
-## Queen Amdi Team
+## 🔱 Queen Alfi-✘ 🔱 Team
 
 <table>
 										<tbody>
