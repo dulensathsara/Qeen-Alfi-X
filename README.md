@@ -20,7 +20,7 @@
 <div align="center">
 	<h1>✤ Click The ✤ Youtube
 ✮Animation Gif✮ :</h1>
-	<a href=https://youtube.com/channel/UCSVEKn59w7-spbvQUFUSHOg">
+	<a href=https://youtube.com/channel/UCSVEKn59w7-spbvQUFUSHOg.com">
 <img src="https://i.ibb.co/BntBzWt/YTLogo-old-new-animation-0.gif" width="400"></br></a>
 </div>
     <br>
