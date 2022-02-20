@@ -110,10 +110,13 @@ HAVE A FUN!
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BlackAmda/QueenAmdi)
 
-## 🔱 Queen Alfi-✘ 🔱 Teamm
+## 🔱 Queen Alfi-✘ 🔱 ✤ Team ✤
+
+
+<table><tr><th>✤Qeen ALFI✤</th><th>DULEN SATHSARA</th></tr><tr><td><a href="https://github.com/dulensathsara"><img src="https://i.ibb.co/KjmJB4x/IMG-20220216-203901-141.jpg" width="180" alt="Qeen ALFI-✘"></a></td><td><a href="https://github.com/ravindu01manoj"><img src="https://i.ibb.co/vPYNRRq/20220218-114910.jpg" width="180" alt="DULEN SATHSARA"></a></td></tr><tr><td> Qeen ALFI-X </td><td>Founder & Owner </td></tr></table><table><tr><th>NISHEN</th><th>SAVIYA</th><th>SHEWO</th></tr><tr><td><a href="https://github.com/ravindu01manoj"><img src="https://i.ibb.co/b2wvwh6/IMG-20220220-170354-560.jpg" width="180" alt="NISHEN DANIDU"></a></td><td><a href="https://github.com/NishNishendanidu"><img src="https://i.ibb.co/FsBHWZJ/IMG-20220220-175627-618.jpg" width="180" alt="SAVIYA"></a></td><td><a href="https://github.com/botkolla1"><img src="https://i.ibb.co/Z1qsZGm/IMG-20220220-155024-327.jpg" width="180" alt="SHEWO BOY"></a></td></tr><tr><td>GROUP MANEGMENT & HELP </td><td> CO-ADMIN & HELP</td><td>GROUP MANEGMENT & IDEA</td></tr></table>
 
 ### License
-This project is protected by the `GNU General Public License v3.0.`
+This project is protected by the `GNU General Public License 
 Do not edit copyright messages!
 
 ### Disclaimer
