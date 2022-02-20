@@ -40,7 +40,7 @@
 	<h2>Click on run on [repl.it] Button and go to the {QR Code} </h1>
 	
 ### QR CODE BUTTON
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@BlackAmda/Queen-Amdi-QR-Code)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@NishenDanidu1/Qeen-Alfi-X-1?v=1)
 
 ### Deploy Your Queen Alfi-✘ WhatsApp Bot
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/BlackAmda/QueenAmdi-v3)
