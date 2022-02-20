@@ -42,9 +42,10 @@
 ### QR CODE BUTTON
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@NishenDanidu1/Qeen-Alfi-X-1?v=1)
 
+<a href="https://github.com/dulensathsara/Qeen-Alfi-X"><img src="https://i.ibb.co/D4XTPbM/heroku.png" width="150" ></a></div>
+
 ### Deploy Your Queen Alfi-✘ WhatsApp Bot
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/BlackAmda/QueenAmdi-v3)
-</div>
+<a href="https://github.com/dulensathsara/Qeen-Alfi-X"><img src="https://i.ibb.co/D4XTPbM/heroku.png" width="150" ></a></div>
 
 ----
 
