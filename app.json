@@ -204,10 +204,7 @@
             "description": "Give it up. We give you this.",
             "required": false,
             "value": "true"
-        },
-        "ALFI_PASSWORD": {
-            "description": "බොට්ව සෑදීම සදහා පාස්වර්ඩ් එකක් අවශ්‍ය අතර වීඩියෝව නරඹා එය ලබා ගන්න.password required.. watch the video ==>",
-            "required": true
+        
     },
     "addons": [{
       "plan": "heroku-postgresql"
