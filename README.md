@@ -44,7 +44,7 @@
 
 
 ### Deploy Your Queen Alfi-✘ WhatsApp Bot
-<a href="https://github.com/dulensathsara/Qeen-Alfi-X/main/.md"><img src="https://i.ibb.co/D4XTPbM/heroku.png" width="150" ></a></div>
+<a href="https://heroku.com/deploy?template=https://github.com/dulensathsara/Qeen-Alfi-X"><img src="https://i.ibb.co/D4XTPbM/heroku.png" width="150" ></a></div>
 
 ----
 
