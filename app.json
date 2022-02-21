@@ -1,20 +1,21 @@
 {
-    "name": "Queen ALFI 4.2v",
+    "name": "Queen ALFI-✘",
     "description": "🔱 Queen Alfi-✘ is a super bot nade for Whatsapp 🔱",
     "keywords": [
         "Queen Alfi",
-        "WhatsApp",
+        "WhatsApp bot",
         "User Bot",
         "Chat bot",
         "Button bot",
         "Qeen alfi-x"
+        "WhatsApp"
     ],
     "logo": "https://i.ibb.co/qjYCdCb/20220218-091104.jpg",
     "success_url": "https://dashboard.heroku.com/apps/",
     "stack": "container",
     "env":{
-        "ALFI_SESSION": {
-            "description": "Paste the session code you received after scanning the QR from https://replit.com/@BlackAmda/Queen-Amdi-QR-Code",
+        "QEEN ALFI_SESSION": {
+            "description": "✤ ඔබ QR කේතය SACN කිරීමෙන් පසු ලැබෙන කේතය මෙතනට එක් කරන්න ✤",
             "required": true
         },
         "ADD_MESSAGE": {
@@ -35,7 +36,7 @@
         "ALIVE_MESSAGE": {
             "description": "The message that appears when typing the '.alive' command. If you do not want to change it, keep 'default'.",
             "required": true,
-            "value": "default"
+            "value": "꧁HEY DEAR I'am Online NOWE"
         },
         "ALFI_CHAT": {
             "description": "Full Artificial intelligence(AI) based chat bot feature. Type 'true' to enable and type 'false' to disable.",
@@ -74,12 +75,12 @@
         "BYE_LOGO": {
             "description": "Picture with good bye message. Paste an image direct link or do '.setbye' command after deploying the bot.",
             "required": true,
-            "value": "https://i.ibb.co/pbjB2pS/93f527f9f2fb.jpg"
+            "value": "https://i.ibb.co/VqxddWJ/44476776165-a2088b305a-b.jpg"
         },
         "CAP": {
             "description": "Caption of media files.",
             "required": true,
-            "value": "🔱 මේක දුන්නෙ Qeen Alfi-✘ 🔱"
+            "value": "🔱 *Qeen Alfi-✘* 🔱"
         },
         "DEMOTE_MESSAGE": {
             "description": "The message that appears when typing the '.demote' command. If you do not want to change it, keep 'default'.",
@@ -112,12 +113,12 @@
         "LANGUAGE": {
             "description": "Bot language. Type EN for English and type SI for Sinhala.",
             "required": true,
-            "value": "SI"
+            "value": "EN"
         },
         "MAX_SIZE": {
             "description": "Set maximum media file sending size. Type size in MB. To best performance keep 90mb.",
             "required": true,
-            "value": "99"
+            "value": "100"
         },
         "MENU": {
             "description": "Set your command to get full command list.",
@@ -131,7 +132,7 @@
         },
         "NAME": {
             "description": "Your name. This will appear in your menu and many commands.",
-            "required": true
+            "required": "DULEN"
         },
         "NO_ERROR_LOG": {
             "description": "Stop all error messages in Log number. Type 'true' to enable and type 'false' to disable Error Log Blocker.",
@@ -165,12 +166,12 @@
         "WELCOME_LOGO": {
             "description": "Picture with welcome message. Paste an image direct link or do '.setwelcome' command after deploying the bot.",
             "required": true,
-            "value": "https://ibb.co/gj4XgnM.jpg"
+            "value": "https://i.ibb.co/k1jg3Z6/20220219-083426.jpg"
         },
         "WORK_TYPE": {
             "description": "The way the bot works. If you use public, everyone can use the bot. If you use private, only you can use your bot.",
             "required": true,
-            "value": "private"
+            "value": "publick"
         },
         "HEROKU": {
             "description": "Heroku",
@@ -203,7 +204,10 @@
             "description": "Give it up. We give you this.",
             "required": false,
             "value": "true"
-        }
+        },
+          "ALFI_PASSWORD": {
+            "description": "බොට්ව සෑදීම සදහා පාස්වර්ඩ් එකක් අවශ්‍ය අතර වීඩියෝව නරඹා එය ලබා ගන්න.password required.. watch the video ==>",
+            "required": true
     },
     "addons": [{
       "plan": "heroku-postgresql"
