@@ -40,12 +40,11 @@
 	<h2>Click on run on [repl.it] Button and go to the {QR Code} </h1>
 	
 ### QR CODE BUTTON
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@NishenDanidu1/Qeen-Alfi-X-1?v=1)
+<div align="left"><a href="https://replit.com/@NishenDanidu1/Qeen-Alfi-X-1?v=1">    <img src="https://i.ibb.co/c3RBmPG/20220219-221409.jpg" width="150" ></a></div>
 
-<a href="https://github.com/dulensathsara/Qeen-Alfi-X"><img src="https://i.ibb.co/D4XTPbM/heroku.png" width="150" ></a></div>
 
 ### Deploy Your Queen Alfi-✘ WhatsApp Bot
-<a href="https://github.com/dulensathsara/Qeen-Alfi-X"><img src="https://i.ibb.co/D4XTPbM/heroku.png" width="150" ></a></div>
+<a href="https://github.com/dulensathsara/Qeen-Alfi-X/main/.md"><img src="https://i.ibb.co/D4XTPbM/heroku.png" width="150" ></a></div>
 
 ----
 
@@ -93,7 +92,7 @@
   </a>
   </p>
  <p align="center">
-  <a href="https://wa.me/94757405652">
+  <a href="https://t.me/dulensathsara">
     <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Queen%20Amdi%20Bot-purple&style=plastic">
 
   </a>
@@ -108,8 +107,6 @@ Install their own plugins to the original software and use as they please.
 Usage is entirely the responsibility of the user. The operating system is not responsible.
 HAVE A FUN!
 ```
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BlackAmda/QueenAmdi)
 
 ## 🔱 Queen Alfi-✘ 🔱 ✤ Team ✤
 
