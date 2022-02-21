@@ -118,7 +118,7 @@
         "MAX_SIZE": {
             "description": "Set maximum media file sending size. Type size in MB. To best performance keep 90mb.",
             "required": true,
-            "value": "100"
+            "value": "99"
         },
         "MENU": {
             "description": "Set your command to get full command list.",
