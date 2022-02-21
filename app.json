@@ -14,7 +14,7 @@
     "stack": "container",
     "env":{
         "QEEN_ALFI_SESSION": {
-            "description": "Paste the session code you received after scanning the QR from https://replit.com/@BlackAmda/Queen-Amdi-QR-Code",
+            "description": "ඔබ QR කේතය SCAN කිරීමෙන් පසු ඔබට ලැබෙන කේතය මෙතනට ඇතුලත් කරන්න.",
             "required": true
         },
         "ADD_MESSAGE": {
