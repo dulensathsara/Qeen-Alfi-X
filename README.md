@@ -13,17 +13,16 @@
 <p align="center">
     ✮ Click the WhatsApp Gif and Join in 🔱 Qeen ALFI-✘ 🔱 Helping Group ✮ and Click the ✤ Youtube ✤ Gif'Subscribe Chanel ✨
     <br>
-        <div align="center">
-	<h1>✤ Click The ✤ WhatsApp
-✮Animation Gif✮ :</h1>
-	<a href=https://chat.whatsapp.com/H3zS0eZEjJw6sJC2lkkDgx">
-<img src="https://i.ibb.co/qRBj5H6/mg-whatsapp-code-comp.gif" width="400"></br></a>
-</div> </br></a>
-<div align="center">
-	<h1>✤ Click The ✤ Youtube
-✮Animation Gif✮ :</h1>
+        <div align="center"
+	<h1>✤ WHATSAPP Helping Group ✤:</h1>
 	<a href=https://youtube.com/channel/UCSVEKn59w7-spbvQUFUSHOg.com">
-<img src="https://i.ibb.co/BntBzWt/YTLogo-old-new-animation-0.gif" width="400"></br></a>
+<img src="https://i.ibb.co/hFPDbMZ/20220221-103318.jpg" width="400"></br></a>
+</div>
+
+  </div>     </br></a
+<h1>✤ TELEGRAM Helping Group ✤ :</h1>
+	<a href=https://t.me/qeenalfihelp">
+<img src="https://i.ibb.co/qJj99qS/20220221-110034.jpg" width="400"></br></a>
 </div>
     <br>
 </p>
@@ -34,7 +33,7 @@
 	<a href=https://saviyaoffcial.wixsite.com/saviya-official">
 <img src="https://i.ibb.co/vQFcRh9/huge-list-of-texting-and-online-chat-abbreviations-5f859ac71992d-2.png" width="400"></br></a>
 </div>
-<img src="https://i.ibb.co/dGfZhYD/7YUa.gif" alt="7YUa" border="00">       Bot Complete Precentage 5%
+
 
 <div align="center">
 	<h2>Click on run on [repl.it] Button and go to the {QR Code} </h1>
