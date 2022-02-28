@@ -18,13 +18,12 @@
         <div align="center"
 	<h1>✤ WHATSAPP Helping Group ✤:</h1>
 	<a href=https://youtube.com/channel/UCSVEKn59w7-spbvQUFUSHOg.com">
-<img src="https://i.ibb.co/hFPDbMZ/20220221-103318.jpg" width="400"></br></a>
+<img src="https://i.ibb.co/hFPDbMZ/20220221-103318.jpg" width="200"></br></a>
 </div>
 
   </div>     </br></a
-<h1>✤ TELEGRAM Helping Group ✤ :</h1>
-	<a href=https://t.me/qeenalfihelp">
-<img src="https://i.ibb.co/qJj99qS/20220221-110034.jpg" width="400"></br></a>
+<h1>✤ TELEGRAM Helping Group ✤ 
+<a href=https://t.me/qeenalfihelp"> <img src="https://i.ibb.co/qJj99qS/20220221-110034.jpg" width="200"></br></a>
 </div>
     <br>
 </p>
