@@ -9,29 +9,15 @@
 <img title="White Dragon" src="https://img.shields.io/badge/✨ DEVELOPED BY DULEN ✨-dqz/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
 
 <img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
-</div>
-      ✤✤✤✤✤✤✤✤✤✤✤✤✤✤✤✤<img src=
-      "https://profile-counter.glitch.me/dulensathsara/count.svg" /><br>  🅿🆁🅾🅵🅸🅻🅴 🆅🅸🅴🆆🅴🆁🆂</div>
+<br>
+<br><div algin="center">◈───────────────────◈<img src=
+      "https://profile-counter.glitch.me/dulensathsara/count.svg" /><br> 🔎 PROFILE VIWERS 🔍</div>
 <p align="center">
-    ✮ Click the WhatsApp Gif and Join in 🔱 Qeen ALFI-✘ 🔱 Helping Group ✮ and Click the ✤ Youtube ✤ Gif'Subscribe Chanel ✨
-    <br>
-        <div align="center"
-	<h1>✤ WHATSAPP Helping Group ✤:</h1>
-	<a href=https://youtube.com/channel/UCSVEKn59w7-spbvQUFUSHOg.com">
-<img src="https://i.ibb.co/hFPDbMZ/20220221-103318.jpg" width="200"></br></a>
-</div>
-
-  </div>     </br></a
-<h1>✤ TELEGRAM Helping Group ✤ 
-<a href=https://t.me/qeen_alfi_help_bord"> <img src="https://i.ibb.co/qJj99qS/20220221-110034.jpg" width="200"></br></a>
-</div>
-    <br>
-</p>
 
 ----
 <div align="center">
-	<h1>꧁Visit Saviya Brother official website꧂ :</h1>
-	<a href=https://saviyaoffcial.wixsite.com/saviya-official">
+	<h1>:</h1>
+	<a href=t.me/dulensathsara">
 <img src="https://i.ibb.co/vQFcRh9/huge-list-of-texting-and-online-chat-abbreviations-5f859ac71992d-2.png" width="400"></br></a>
 </div>
 
