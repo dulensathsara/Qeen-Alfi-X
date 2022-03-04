@@ -30,8 +30,8 @@
   
  
 ```
-Bot Installing... 40%
-██████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+Bot Installing... 87%
+██████████████▒▒▒▒▒▒
 ```
 <br>
  ◈──Qeen ALFI-X TEAM──◈
