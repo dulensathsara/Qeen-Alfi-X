@@ -22,7 +22,7 @@
 <div align="center"><a href="https://replit.com/@NishenDanidu1/Qeen-Alfi-X-1?v=1">    <img src="https://i.ibb.co/c3RBmPG/20220219-221409.jpg" width="150" ></a></div>
 
 
-### Deploy Your Queen ALFI-X Bot
+### <b>DEPLOY YOUR BOT ON HEROKU</b>
 <a href="https://heroku.com/deploy?template=https://github.com/dulensathsara/Qeen-Alfi-X"><img src="https://i.ibb.co/D4XTPbM/heroku.png" width="150" ></a></div>
 
 ----
