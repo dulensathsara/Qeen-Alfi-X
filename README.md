@@ -30,7 +30,20 @@
  
 ```
 Bot Installing... 87%
-██████████████▒▒▒▒▒▒
+██████████████▒▒▒▒▒▒ 
+
+> termux-setup-storage
+> apt update && apt upgrade -y -y
+> apt install git -y
+> apt install nodejs -y
+> apt install ffmpeg -y
+> apt install imagemagick -y
+> git clone https://github.com/dulensathsara/Qeen-Alfi-X
+> cd Qeen-ALFI-X
+> npm install
+> npm install 
+> npm update
+> npm start
 ```
 <br>
  ◈──Qeen ALFI-X TEAM──◈
