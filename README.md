@@ -29,8 +29,8 @@
   
  
 ```
-Bot Installing... 94%
-████████████████▒ 
+Bot Installing... 71%
+███████████▒▒▒▒ 
 
 👉 ✨ TERMUX USERS ✨ 👈
 
@@ -47,6 +47,8 @@ Bot Installing... 94%
 > npm update
 > npm start">
 ```
+<div align="center"><h1>◈ BOT FOUNDER ◈</h1><a href="https://github.com/ravindu01manoj/Sew-Queen"><img src="https://i.ibb.co/V2m6Hjn/ezgif-1-20333ffbe8.gif/media/ezgif.com-video-to-gif%20(1).gif" width="450"></a></div>
+
 <br>
  ┏◈───Qeen ALFI-X TEAM───◈┓
 <table><tr><th>Qeen ALFI-X</th><th>DULEN SATHSARA</th></tr><tr><td><a href="https://github.com/dulensathsara"><img src="https://i.ibb.co/KjmJB4x/IMG-20220216-203901-141.jpg" width="180" alt="Qeen ALFI-X"></a></td><td><a href="https://github.com/dulensathsara"><img src="https://i.ibb.co/vPYNRRq/20220218-114910.jpg" width="180" alt="DULEN SATHSARA"></a></td></tr><tr><td> Qeen ALFI-X </td><td>Founder & Owner </td></tr></table><table><tr><th>NISHEN</th><th>SAVIYA</th><th>SHEWO</th></tr><tr><td><a href="https://github.com/dulensathsara/Qeen-Alfi-X"><img src="https://i.ibb.co/b2wvwh6/IMG-20220220-170354-560.jpg" width="180" alt="NISHEN DANIDU"></a></td><td><a href="https://github.com/NishNishendanidu"><img src="https://i.ibb.co/FsBHWZJ/IMG-20220220-175627-618.jpg" width="180" alt="SAVIYA"></a></td><td><a href="https://github.com/botkolla1"><img src="https://i.ibb.co/Z1qsZGm/IMG-20220220-155024-327.jpg" width="180" alt="SHEWO BOY"></a></td></tr><tr><td>GROUP MANEGMENT & HELP </td><td> IDEAS & HELP</td><td>GROUP MANEGMENT & SUPORT</td></tr></table><tr><th>✨ Qeen ALFI-X WA BOT ✨</th><th><i></i></th></tr><tr>
