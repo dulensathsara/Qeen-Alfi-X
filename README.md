@@ -47,7 +47,7 @@ Bot Installing... 71%
 > npm update
 > npm start">
 ```
-<div align="center"><h1>◈ BOT FOUNDER ◈</h1><a href="https://github.com/ravindu01manoj/Sew-Queen"><img src="https://i.ibb.co/V2m6Hjn/ezgif-1-20333ffbe8.gif/media/ezgif.com-video-to-gif%20(1).gif" width="450"></a></div>
+<div align="center"><h1>◈ BOT FOUNDER ◈</h1><a href="https://github.com/dulensathsara/Qeen-Alfi-X"><img src="https://i.ibb.co/V2m6Hjn/ezgif-1-20333ffbe8.gif/media/ezgif.com-video-to-gif%20(1).gif" width="250"></a></div>
 
 <br>
  ┏◈───Qeen ALFI-X TEAM───◈┓
