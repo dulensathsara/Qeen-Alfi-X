@@ -1,8 +1,7 @@
 ![R4K DULEYAH](https://img.shields.io/badge/R4K%20DULEYAH-52b5f7?style=for-the-badge&logo=%20alexa&logoColor=white)<a href="https://wa.me//+94778023384">
 
 <div align="center">
-  <img src="https://i.ibb.co/qjYCdCb.png" width="300" height="300">		
- 
+  <a href="https://ibb.co/3f4mq5r"><img src="https://i.ibb.co/VHJYZ0j/FB-IMG-1666017027635.jpg" alt="FB-IMG-1666017027635" border="0"></a><br /><a target='_blank' href='https://wa.me//+94778023384/'>DIRECT WHATSAPP LINK</a><br />
 <h1><b>R4K | DULEYAH</b></h1>
 
 <br>
