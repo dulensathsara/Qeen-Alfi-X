@@ -1,15 +1,12 @@
-![Qeen ALFI-X](https://img.shields.io/badge/Qeen%20ALFI─X-Bot-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)<a href="https://github.com/dulensathsara/Qeen-Alfi-X"><img src="https://i.imgur.com/p5oXNx0.gif" width="50" ></a></div>
-<div align="center">		
-<img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
-</p>
+![R4K DULEYAH](https://img.shields.io/badge/R4K%20DULEYAH-52b5f7?style=for-the-badge&logo=%20alexa&logoColor=white)<a href="https://wa.me//+94778023384">
+
 <div align="center">
-  <img src="https://i.ibb.co/qjYCdCb/20220218-091104.jpg" width="300" height="300">		
-<img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
-</p> 
- <h1><b><tt>Qeen ALFI-X BOT</tt></b></h1>
+  <img src="https://i.ibb.co/qjYCdCb.png" width="300" height="300">		
+ 
+<h1><b>R4K | DULEYAH</b></h1>
 
 <br>
-<img title="White Dragon" src="https://img.shields.io/badge/✨ DEVELOPED BY DULEN ✨-dqz/JulieMwol?color=black&style=for-the-badge&logo=github"></a>
+<img title="White Dragon" src="https://img.shields.io/badge/ POWERD BY DULEYAH -dqz/JulieMwol?color=silver&style=for-the-badge&logo=whatsapp"></a>
 <br><div algin="center">◈───────────────────◈<img src=
       "https://profile-counter.glitch.me/dulensathsara/count.svg" /><br> 🔎 PROFILE VIWERS 🔍</div>
 <p align="center">
@@ -17,7 +14,7 @@
 <div align="center">
 	
 	
-### QR CODE BUTTON
+### WHATSAPP NUMBER
 <div align="center"><a href="https://replit.com/@NishenDanidu1/Qeen-Alfi-X-1?v=1">    <img src="https://i.ibb.co/c3RBmPG/20220219-221409.jpg" width="150" ></a></div>
 
 
@@ -29,10 +26,10 @@
   
  
 ```
-Bot Installing... 71%
+Details Installing... 71%
 ███████████▒▒▒▒ 
 
-👉 ✨ TERMUX USERS ✨ 👈
+👉 ✨ OTHER USERS ✨ 👈
 
 > termux-setup-storage
 > apt update && apt upgrade -y -y
